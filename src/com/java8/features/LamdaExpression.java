@@ -8,7 +8,7 @@ public class LamdaExpression {
 		
 		Additional2 add1=(String name)->{return "Mr Khan ";};
 		
-		System.out.println(add1.sayHello("Welcome"));
+		System.out.println(add1.sayHello("Welcome.."));
 	}
 
 }
